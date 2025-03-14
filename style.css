@@ -11,10 +11,10 @@
  
 
 .relative-parent {
-  background: #33267d;
+  background: #2600ff;
 }
 .relative {
-  background: #c7bcc9;
+  background: #d903ff;
   height: 250px;
   width: 340px;
   position: relative;
@@ -58,7 +58,7 @@ div.sticky {
 .right{
   position: relative;
   right: 409px;
-  background-color: #8181cc;
+  background-color: #02ff02;
   color: black;
   height: 30px;
   text-align: right;
