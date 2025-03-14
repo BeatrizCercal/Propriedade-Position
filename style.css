@@ -64,6 +64,14 @@ div.sticky {
   text-align: right;
 }
 
+.static{
+  position: static;
+  background-color: rgb(109, 167, 194);
+  padding: 50px;
+  font-size: 20px;
+  color:black;
+}
+
 .top {
   top: 0px;
   position: absolute;
