@@ -1,3 +1,13 @@
+div.texto{
+  text-align: center;
+  color: rgb(168, 54, 159);
+}
+div.texto2{
+  text-align: center;
+  color: rgb(190, 109, 189);
+}
+
+
 div.static{
     position: static;
     border: 3px solid #73AD21;
@@ -56,4 +66,12 @@ div.top{
     position:absolute;
     top: 10px;
 }
-    
+ img{
+  width: 340px;
+  height: 250px;
+ }
+*{
+  background-color: rgb(237, 209, 234);
+  border-radius: 50px;
+}
+
