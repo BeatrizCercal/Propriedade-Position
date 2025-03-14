@@ -1,6 +1,6 @@
 
 .fixed {
-  background: #a4c467;
+  background: #35358a;
   height: 50px;
   width: 300px;
   position: fixed;
@@ -11,7 +11,7 @@
  
 
 .relative-parent {
-  background: #156236;
+  background: #33267d;
 }
 .relative {
   background: #c7bcc9;
@@ -29,7 +29,7 @@
   right: 32px;
   width: 260px;
   height: 150px;
-  background-color: rgb(181, 61, 187);
+  background-color: rgb(68, 102, 226);
   color:black;
 }
 
@@ -38,4 +38,28 @@
   background-color: rgb(237, 209, 234);
   border-radius: 50px;
   color: rgb(153, 100, 153);
+}
+
+div.sticky {
+  position: sticky;
+  top: 0;
+  background-color: rgb(109, 167, 194);
+  padding: 50px;
+  font-size: 20px;
+  color:black;
+}
+.left{
+  position: relative;
+  left: 409px;
+  background-color: #8181cc;
+  color: black;
+  height: 30px;
+}
+.right{
+  position: relative;
+  right: 409px;
+  background-color: #8181cc;
+  color: black;
+  height: 30px;
+  text-align: right;
 }
