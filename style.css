@@ -63,3 +63,11 @@ div.sticky {
   height: 30px;
   text-align: right;
 }
+
+.static{
+  position: static;
+  background-color: rgb(109, 167, 194);
+  padding: 50px;
+  font-size: 20px;
+  color:black;
+}
